@@ -1,5 +1,5 @@
 # Galeria flex
-[](preview.png)
+![](preview.png)
 
 ## Projeto
 Galeria utilizando o flex
